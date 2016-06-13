@@ -1,0 +1,8 @@
+to check the version of the spark -> pyspark
+
+get the source from grouplens -> movielens
+
+under SparkCourse folder
+
+run spark-submit ratings-counter.py -> to run the file
+to summarize the number of rating for each rating
